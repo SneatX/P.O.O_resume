@@ -1,3 +1,5 @@
+//Uso: El dominio no depende de detalles de infraestructura.
+
 type User = {
   id: string;
   name: string;

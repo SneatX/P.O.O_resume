@@ -1,3 +1,5 @@
+//Uso: Control estricto de transacciones sin exponer el saldo directamente.
+
 class Wallet {
   private balance: number;
   private transactionHistory: string[] = [];
